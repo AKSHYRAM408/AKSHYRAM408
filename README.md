@@ -18,7 +18,7 @@ I'm a third-year undergraduate specializing in **Artificial Intelligence & Data 
 
 - 🔭 Currently building **AI-powered apps** with Mistral AI, BERT, and Streamlit
 - ☁️ Learning **Cloud & DevOps** — AWS, Terraform, Docker, GitHub Actions
-- 🌱 Exploring **Computer Vision**, **NLP**, and **MLOps**
+- 🌱 Exploring **Computer Vision**, **NLP**, and **MLOps** 
 - 📝 Documenting my DevOps learning journey on [LinkedIn](https://www.linkedin.com/in/akshyram/)
 - 🤝 Open to **internship opportunities** in AI / Data Science / Cloud / CV
 

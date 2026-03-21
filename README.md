@@ -1,7 +1,7 @@
 <!-- header -->
 <div align="center">
 
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0a0a1a&height=160&section=header&text=Akshyram%20Mahendiran&fontSize=34&fontColor=c4b5fd&fontAlignY=55&desc=always%20shipping.%20always%20learning.&descSize=13&descColor=7c3aed&descAlignY=78)](https://github.com/AKSHYRAM408)
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=160&section=header&text=Akshyram%20Mahendiran&fontSize=34&fontColor=ffffff&fontAlignY=55&desc=always%20shipping.%20always%20learning.&descSize=13&descColor=aaaaaa&descAlignY=78)](https://github.com/AKSHYRAM408)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=%24+python+build.py+--prod;%24+terraform+apply+--auto-approve;%24+kubectl+get+pods+-A;%24+git+push+--force-with-lease+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -61,8 +61,9 @@ akshyram = {
 
 *I don't wait to feel ready. I ship, break, fix, repeat.*  
 &nbsp;  
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AKSHYRAM408&bg_color=0d1117&color=8b949e&line=7c3aed&point=c4b5fd&area=true&hide_border=true)](https://github.com/AKSHYRAM408)
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0a0a1a&height=100&section=footer&text=Star%20%E2%AD%90%20%C2%B7%20Let%27s%20build&fontSize=14&fontColor=7c3aed&fontAlignY=65)](https://github.com/AKSHYRAM408)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=100&section=footer&text=Star%20%E2%AD%90%20%C2%B7%20Let%27s%20build&fontSize=14&fontColor=ffffff&fontAlignY=65)](https://github.com/AKSHYRAM408)
 
 </div>

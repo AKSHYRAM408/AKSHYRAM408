@@ -34,7 +34,19 @@
 
 </div>
 
+<!-- ═══════════════════ SNAKE CONTRIBUTION ANIMATION ═══════════════════ -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKSHYRAM408/AKSHYRAM408/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKSHYRAM408/AKSHYRAM408/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AKSHYRAM408/AKSHYRAM408/output/github-snake-dark.svg" />
+</picture>
+</div>
+
 ---
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
 <img align="right" alt="terminal-gif" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -67,6 +79,20 @@ const akshyram = {
 
 ---
 
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+<div align="center">
+
+## 🏆 `$ cat ~/trophies.log`
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AKSHYRAM408&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ═══════════════════ NEOFETCH ═══════════════════ -->
+
 ## 🧬 `$ neofetch --tech-stack`
 
 ```
@@ -88,7 +114,44 @@ const akshyram = {
 
 ---
 
-## ⚙️ Tech Arsenal
+<!-- ═══════════════════ TECH STACK — VISUAL ICONS ═══════════════════ -->
+
+## ⚙️ `$ dpkg --list | grep installed`
+
+<div align="center">
+
+### 🧠 Languages & Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,bash&theme=dark&perline=10" alt="Languages" />
+</a>
+
+### 🤖 AI / ML & Data
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10" alt="AI/ML" />
+</a>
+
+### ☁️ Cloud & Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,dynamodb&theme=dark&perline=10" alt="Cloud" />
+</a>
+
+### 🐳 DevOps & CI/CD
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana&theme=dark&perline=10" alt="DevOps" />
+</a>
+
+### 🛠️ Tools & Environment
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,git,powershell,linux,github&theme=dark&perline=10" alt="Tools" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════ DETAILED TECH — COLLAPSIBLE ═══════════════════ -->
+
+## 🗂️ Tech Arsenal — Deep Dive
 
 <details>
 <summary>🧠 <b>AI / ML — The Brain</b></summary>
@@ -158,6 +221,8 @@ const akshyram = {
 </details>
 
 ---
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 ## 🚀 `$ ls -la ~/projects/featured/`
 
@@ -292,6 +357,8 @@ class SentimentEngine:
 
 ---
 
+<!-- ═══════════════════ HTOP SKILLS ═══════════════════ -->
+
 ## 🧪 `$ htop --skills`
 
 ```
@@ -321,23 +388,53 @@ class SentimentEngine:
 
 ---
 
+<!-- ═══════════════════ GITHUB STATS — FULL DASHBOARD ═══════════════════ -->
+
 ## 📈 `$ git log --stats`
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AKSHYRAM408&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=8b949e&ring_color=7c3aed&include_all_commits=true&count_private=true&custom_title=akshyram@github:~%24%20git%20stats"/>
+<!-- MAIN STATS + LANGUAGES SIDE BY SIDE -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKSHYRAM408&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=8b949e&ring_color=7c3aed&include_all_commits=true&count_private=true&custom_title=akshyram@github:~%24%20git%20stats"/>
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHYRAM408&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&langs_count=8&custom_title=akshyram@github:~%24%20lang%20breakdown"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHYRAM408&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&langs_count=8&custom_title=akshyram@github:~%24%20lang%20breakdown"/>
+
+<br/><br/>
+
+<!-- STREAK -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AKSHYRAM408&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=7c3aed&fire=fb923c&currStreakLabel=c4b5fd&sideLabels=8b949e&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=8b949e)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AKSHYRAM408&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=7c3aed&fire=fb923c&currStreakLabel=c4b5fd&sideLabels=8b949e&currStreakNum=c4b5fd&sideNums=c4b5fd&dates=8b949e)](https://git.io/streak-stats)
+<!-- PROFILE SUMMARY CARDS — 5-CARD SPREAD -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKSHYRAM408&theme=github_dark)](https://github.com/AKSHYRAM408)
 
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKSHYRAM408&theme=github_dark" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKSHYRAM408&theme=github_dark" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKSHYRAM408&theme=github_dark&utcOffset=5.5" width="32.5%"/>
+</p>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AKSHYRAM408&bg_color=0d1117&color=8b949e&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&custom_title=akshyram@github:~%24%20git%20log%20--graph%20--all)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<a href="https://github.com/AKSHYRAM408">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AKSHYRAM408&theme=dark&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&layout=compact&custom_title=akshyram@github:~%24%20wakatime%20--stats" alt="Wakatime Stats" />
+</a>
+
+<!-- METRICS -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHYRAM408&repo=URL_Shortener-&theme=dark&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=8b949e" width="48%"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════ ROADMAP ═══════════════════ -->
 
 ## 🧭 `$ cat ~/roadmap.yaml`
 
@@ -398,7 +495,40 @@ phases:
 # deployment_philosophy: "Ship fast. Learn faster. Break nothing (ideally)."
 ```
 
+<!-- ROADMAP VISUAL PROGRESS BAR -->
+<div align="center">
+
+> **Roadmap Progress**
+
+![Phase 1](https://img.shields.io/badge/Phase_1-Docker_🐳-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![✅](https://img.shields.io/badge/✅-22c55e?style=for-the-badge)
+&nbsp;
+![Phase 2](https://img.shields.io/badge/Phase_2-GitHub_Actions_🔄-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![✅](https://img.shields.io/badge/✅-22c55e?style=for-the-badge)
+
+![Phase 3](https://img.shields.io/badge/Phase_3-Kubernetes_☸️-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![✅](https://img.shields.io/badge/✅-22c55e?style=for-the-badge)
+&nbsp;
+![Phase 4](https://img.shields.io/badge/Phase_4-Terraform_🏗️-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![✅](https://img.shields.io/badge/✅-22c55e?style=for-the-badge)
+
+![Phase 5](https://img.shields.io/badge/Phase_5-Monitoring_📊-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![✅](https://img.shields.io/badge/✅-22c55e?style=for-the-badge)
+&nbsp;
+![Phase 6](https://img.shields.io/badge/Phase_6-Serverless_⚡-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![✅](https://img.shields.io/badge/✅-22c55e?style=for-the-badge)
+
+![Phase 7](https://img.shields.io/badge/Phase_7-MLOps_🔬-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
+![🔄](https://img.shields.io/badge/🔄-fbbf24?style=for-the-badge)
+&nbsp;
+![Phase 8](https://img.shields.io/badge/Phase_8-System_Design_🏛️-6d28d9?style=for-the-badge)
+![🌱](https://img.shields.io/badge/🌱-8b949e?style=for-the-badge)
+
+</div>
+
 ---
+
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
 
 ## 💼 `$ cat ~/experience.log`
 
@@ -417,6 +547,8 @@ phases:
 ```
 
 ---
+
+<!-- ═══════════════════ OPPORTUNITIES ═══════════════════ -->
 
 ## 🎯 `$ systemctl status --opportunities`
 
@@ -441,6 +573,8 @@ phases:
 
 ---
 
+<!-- ═══════════════════ CONNECTIONS ═══════════════════ -->
+
 ## 📡 `$ netstat --connections`
 
 <div align="center">
@@ -454,9 +588,39 @@ tcp    akshyram:docker       containers:*           ESTABLISHED   hub.docker.com
 tcp    akshyram:email        opportunities:*        LISTENING     akshyram408@gmail.com
 ```
 
+<!-- CONNECT CARDS — VISUAL -->
+<a href="https://www.linkedin.com/in/akshyram/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+</a>
+&nbsp;
+<a href="https://github.com/AKSHYRAM408">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+</a>
+&nbsp;
+<a href="https://hub.docker.com/u/akshyram">
+  <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
+</a>
+&nbsp;
+<a href="mailto:akshyram408@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+</a>
+
 </div>
 
 ---
+
+<!-- ═══════════════════ RANDOM DEV QUOTE ═══════════════════ -->
+
+<div align="center">
+
+### 💭 Random Dev Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
 

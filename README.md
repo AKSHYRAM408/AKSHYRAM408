@@ -20,7 +20,7 @@
 ```python
 akshyram = {
     "building": "AI systems that actually ship ",
-    "belief":  "If it takes > 30s manually, I automate it"
+    "belief":  "If I do things repeatedly 5 times in a day, I automate it"
 }
 ```
 

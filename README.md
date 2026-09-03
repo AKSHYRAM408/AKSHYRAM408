@@ -19,10 +19,8 @@
 
 ```python
 akshyram = {
-    "uni":     "SJIT — AI & Data Science, Year 3",
-    "building": "AI systems that actually ship 🚀",
-    "belief":  "If it takes > 30s manually, I automate it",
-    "aws_bill": "$0.00 (a point of pride)",
+    "building": "AI systems that actually ship ",
+    "belief":  "If it takes > 30s manually, I automate it"
 }
 ```
 
